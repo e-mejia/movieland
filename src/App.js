@@ -19,7 +19,7 @@ function App() {
   }
 
   useEffect(() => {
-    searchMovies("The Avengers");
+    searchMovies("Bat-man");
   }, []);
 
   return (

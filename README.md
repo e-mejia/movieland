@@ -16,7 +16,7 @@ The app uses the useEffect React hook to initialize the page.  The app uses a Un
 
   App could be optimized to save the date either locally or to a backend database, among other improvements.
 
-Lessons Learned:
+#  Lessons Learned:
 
 The map function is an especially powerful and useful tool when working with lists in React.
 

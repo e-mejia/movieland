@@ -20,4 +20,4 @@ The app uses the useEffect React hook to initialize the page.  The app uses a Un
 
 The map function is an especially powerful and useful tool when working with lists in React.
 
-Link to Project:    
+Link to Project:    https://e-mejia.github.io/movieland

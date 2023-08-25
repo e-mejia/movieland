@@ -14,7 +14,7 @@ The app uses the useEffect React hook to initialize the page.  The app uses a Un
 
 #  Optimizations
 
-  App could be optimized to save the date either locally or to a backend database, among other improvements.
+  App could be optimized to save the data either locally or to a backend database, among other improvements.
 
 #  Lessons Learned:
 

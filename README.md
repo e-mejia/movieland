@@ -1,6 +1,6 @@
 #  Movieland
 
-PURPOSE OF THE PROJECT: This is a React API search for movies application.
+PURPOSE OF THE PROJECT: This is a React API application used to search for films.
 
 #  How's it made 
 

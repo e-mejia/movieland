@@ -2,7 +2,7 @@
 
 PURPOSE OF THE PROJECT: This is a React API application used to search for films.
 
-#  How's it made 
+#  How's it made:
 
 Tech used: HTML, CSS, JavaScript, ReactJS
 
@@ -12,7 +12,7 @@ The app calls the omdbapi to fetch the data.
 
 The app uses the useEffect React hook to initialize the page.  The app uses a Universally Unique Identifier or UUID function to create unique IDs for mapping andkeeping track of each task.
 
-#  Optimizations
+#  Optimizations:
 
   App could be optimized to save the data either locally or to a backend database, among other improvements.
 
